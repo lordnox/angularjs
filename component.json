@@ -1,0 +1,14 @@
+{
+  "name": "angularjs",
+  "repo": "lordnox/angularjs",
+  "description": "AngularJS for component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
